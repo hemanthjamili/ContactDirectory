@@ -39,7 +39,7 @@ function ContactController($scope, Contact){
 }
 
 function isValid(contact) {	
-	let namePattern = /^[A-Za-z]+(?:[\\s][A-Za-z]+)?$/;
+	let namePattern = /^[A-Za-z ]+(?:[\\s][A-Za-z ]+)?$/;
 	let emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
 	let numberPattern = /^(\+91-?)?(\d{3}-?)?(\d{3}-?)?\d{4}$/;
 
