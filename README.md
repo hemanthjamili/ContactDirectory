@@ -45,4 +45,4 @@ There are 5 Rest-end points for this application. The context-path is set as "/"
 
 ## Authors
 
-* **Naga Sai Hemanth Jamili** - *Initial work* - [hemanthjamili](https://github.com/hemanthjamili)
+* **Naga Sai Hemanth Jamili** - *Initial work* - [hemanthjamili](https://www.linkedin.com/in/hemanthjamili/)
